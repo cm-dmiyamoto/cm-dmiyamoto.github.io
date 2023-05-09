@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: 小虎会課題
 description: 課題提出用仮ページ
 kramdown:
-  gfm_quirks: true
+  hard_wrap: true

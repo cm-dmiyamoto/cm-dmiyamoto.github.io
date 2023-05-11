@@ -1,1 +1,2 @@
-# 主に社内課題の提出用に使う想定
+# cm-dmiyamoto.github.io
+Personal Assignment Submission Page

@@ -14,4 +14,8 @@
 
 ## 2307
 
-- [通常課題](https://cm-dmiyamoto.github.io/kotora/2306/2307_kadai_n)
+- [通常課題](https://cm-dmiyamoto.github.io/kotora/2307/2307_kadai_n)
+
+## 2308
+
+- [通常課題](https://cm-dmiyamoto.github.io/kotora/2308/2308_kadai_n)

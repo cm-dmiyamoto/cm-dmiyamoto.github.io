@@ -31,3 +31,7 @@
 ## 2312
 
 - [通常課題](https://cm-dmiyamoto.github.io/kotora/2312/2312_kadai_n)
+
+## 2401
+
+- [通常課題](https://cm-dmiyamoto.github.io/kotora/2401/2401_kadai_n)
